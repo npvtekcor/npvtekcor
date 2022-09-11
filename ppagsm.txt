@@ -1,1 +1,17 @@
-Proibido uso de torrent e ação criminal.
+{
+"SendMessage":10,
+"AppUpdate":"true",
+"AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
+"MyMessage":
+"AVALIAÇAO!\n\n
+Avalie nosso aplicativo clicando em OK.\n\n
+
+Sua avaliaçao é importante.\n\n
+
+Se ja estiver avaliado, clique em SAIR.\n\n
+
+Obs: Ao clicar em OK voce sera redirecionado para a google play store!\n\n
+Obrigada.\n\n\n
+
+- Rocket VPN 15:50 08/09/2022"
+}

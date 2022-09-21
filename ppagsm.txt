@@ -3,6 +3,6 @@
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Não esqueça de avaliar nosso aplicativo e compartilhar, para ficar por dentro das novidades que está por vir, entre em nosso grupo do telegram @GRUPO_ROCKETVPN, obrigado!
-\n - Rocket VPN 23:10 12/09/2022"
+"Não esqueça de avaliar nosso aplicativo e compartilhe com seus conhecidos, para ficar por dentro das novidades que está por vir, entre em nosso grupo do telegram @GRUPO_ROCKETVPN, obrigado!
+\n - Rocket VPN 21/09/2022"
 }

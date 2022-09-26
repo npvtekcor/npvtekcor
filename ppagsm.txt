@@ -3,5 +3,5 @@
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Aplicativo online novamente, desculpa pelo ocorrido. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."
+"Aplicativo online novamente, caso não estiver funcionando vivo, basta selecionar manualmente a opção V 01. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."
 }

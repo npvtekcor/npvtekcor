@@ -1,6 +1,6 @@
 {
-"SendMessage":16,
-"AppUpdate":"true",
+"SendMessage":17,
+"AppUpdate":"false",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
 "Todas operadoras funcionando. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."

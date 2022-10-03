@@ -1,7 +1,7 @@
 {
-"SendMessage":15,
+"SendMessage":16,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Aplicativo online novamente, caso não estiver funcionando vivo, basta selecionar manualmente a opção V 01 ou atualizar aplicativo entrando com internet. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."
+"Todas operadoras funcionando. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."
 }

@@ -3,5 +3,5 @@
 "AppUpdate":"false",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Tim funcionando com promoção ativa. Não esqueça de deixar sua avaliação e compartilhar com seus conhecidos, obrigado."
+"VIVO ONLINE, BASTA ATUALIZAR APLICATIVO ENTRANDO COM INTERNET OU SELECIONAR OPERADORA CLARO MANUALMENTE QUE IRÁ FUNCIONAR VIVO TAMBÉM."
 }

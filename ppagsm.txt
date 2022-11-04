@@ -3,5 +3,5 @@
 "AppUpdate":"false",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"VIVO ONLINE TODOS DDD, BASTA ATUALIZAR APLICATIVO ENTRANDO COM INTERNET."
+"VIVO ONLINE TODOS DDD, BASTA ATUALIZAR APLICATIVO ENTRANDO COM INTERNET E SELECIONAR OPÇÃO V (CDN) 01."
 }

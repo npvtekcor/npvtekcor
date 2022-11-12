@@ -1,7 +1,7 @@
 {
-"SendMessage":18,
+"SendMessage":19,
 "AppUpdate":"false",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"VIVO ONLINE TODOS DDD, BASTA ATUALIZAR APLICATIVO ENTRANDO COM INTERNET E SELECIONAR OPÇÃO V (CDN) 01."
+"Aplicativo atualizado: 12/11/2022."
 }

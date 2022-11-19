@@ -1,7 +1,7 @@
 {
 "SendMessage":19,
-"AppUpdate":"false",
+"AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Aplicativo atualizado: 12/11/2022."
+"VIVO E TIM velocidade normal sem redução e funcionando todos DDD. Aplicativo atualizado: 18/11/2022."
 }
